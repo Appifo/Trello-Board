@@ -7,12 +7,12 @@ This course focuses on teaching how to use the Vue draggable library but also gi
 ### 16 lessons  1 hr Advanced
 
 # What you will learn in the Build a Drag-and-Drop Trello Board with Vue.js course
-### 1. Drag-and-Drop interfaces with Vue
-### 2. Vue Draggable
-### 3. Tailwind CSS
-### 4. Drag Handles
-### 5. Drag Transitions
-### 6. Reactive LocalStorage with VueUse
-### 7. Keyboard Modifier's with VueUse
-### 8. Using Nuxt.js for Developer Perks on an SPA
-### 9. Front-end app dev workflow
+1. Drag-and-Drop interfaces with Vue
+2. Vue Draggable
+3. Tailwind CSS
+4. Drag Handles
+5. Drag Transitions
+6. Reactive LocalStorage with VueUse
+7. Keyboard Modifier's with VueUse
+8. Using Nuxt.js for Developer Perks on an SPA
+9. Front-end app dev workflow
