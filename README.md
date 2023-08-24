@@ -6,6 +6,7 @@ This course focuses on teaching how to use the Vue draggable library but also gi
 # Timeline
 ### 16 lessons  1 hr Advanced
 
+
 # What you will learn in the Build a Drag-and-Drop Trello Board with Vue.js course
 ### 1. Drag-and-Drop interfaces with Vue
 ### 2. Vue Draggable
