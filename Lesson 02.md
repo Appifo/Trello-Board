@@ -10,9 +10,9 @@ export default defineNuxtConfig({
 *
 
 # Links
-[Vue Draggable Github Repo](https://github.com/SortableJS/vue.draggable.next)
-[Vue Draggable Demo](https://sortablejs.github.io/vue.draggable.next/#/simple)
-[nanoid](https://www.npmjs.com/package/nanoid)
-[Nuxt Tailwind Module](https://nuxt.com/modules/tailwindcss)
-[Nuxt VueUse Module](https://www.npmjs.com/package/@vueuse/nuxt)
-[Nuxt Docs: nuxt.config.ts](https://nuxt.com/docs/guide/directory-structure/nuxt.config)
+* [Vue Draggable Github Repo](https://github.com/SortableJS/vue.draggable.next)
+* [Vue Draggable Demo](https://sortablejs.github.io/vue.draggable.next/#/simple)
+* [nanoid](https://www.npmjs.com/package/nanoid)
+* [Nuxt Tailwind Module](https://nuxt.com/modules/tailwindcss)
+* [Nuxt VueUse Module](https://www.npmjs.com/package/@vueuse/nuxt)
+* [Nuxt Docs: nuxt.config.ts](https://nuxt.com/docs/guide/directory-structure/nuxt.config)
